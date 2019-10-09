@@ -81,6 +81,25 @@ sections:
     image: "/images/photo-1523287562758-66c7fc58967f.jpg"
     actions: []
   section_id: ''
+- type: section_reviews
+  template: section_reviews
+  section_id: reviews
+  title: Testimonials
+  subtitle: Real people saying real things
+  bg: white
+  reviews:
+  - author: John Proctor
+    avatar: images/review1.jpg
+    content: It's unbelievable! What a time to be alive! I started using it as a joke
+      and now it's the first thing I turn on as soon as I get home!
+  - author: Mary Bones
+    avatar: images/review2.jpg
+    content: I've been waiting my whole life for it. Deskters is a dream becoming
+      reality. Click a button, join some people and pretend they aren't even there!
+  - author: Goal K. Ieper
+    avatar: images/review3.jpg
+    content: Just. Amazing! I mean... what were you waiting for. If I had something
+      like this in the past now I wouldn't be a broken bum.
 - type: section_hero
   template: section_hero
   section_id: hero
@@ -127,25 +146,6 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-- type: section_reviews
-  template: section_reviews
-  section_id: reviews
-  title: Testimonials
-  subtitle: Real people saying real things
-  bg: white
-  reviews:
-  - author: John Proctor
-    avatar: images/review1.jpg
-    content: It's unbelievable! What a time to be alive! I started using it as a joke
-      and now it's the first thing I turn on as soon as I get home!
-  - author: Mary Bones
-    avatar: images/review2.jpg
-    content: I've been waiting my whole life for it. Deskters is a dream becoming
-      reality. Click a button, join some people and pretend they aren't even there!
-  - author: Goal K. Ieper
-    avatar: images/review3.jpg
-    content: Just. Amazing! I mean... what were you waiting for. If I had something
-      like this in the past now I wouldn't be a broken bum.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
