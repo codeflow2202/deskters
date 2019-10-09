@@ -48,9 +48,9 @@ sections:
   - title: Connect to the app
     image: "/images/photo-1520883593493-120786636e05.jpg"
     actions: []
-    content: And find yourself in a weird room surrounded by strangers. You fix your
+    content: And find yourself in a weird room surrounded by strangers. You turn your
       camera to point you at your best side. You feel awkward but so do they. You
-      just pretend they are not there and keep doing whatever you were doing.
+      just pretend they are not there and keep doing your own business.
   - title: Receive a message
     content: 'You almost forgot about this app to be open in one of your tabs when
       you see a notification. That weird guy with a big beard nicknamed xxxILovePizzaxxx
