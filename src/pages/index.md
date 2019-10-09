@@ -42,11 +42,11 @@ sections:
 - template: section_features
   bg: gray
   type: section_features
-  title: I still don't understand what the hell are you talking about weirdo
-  subtitle: This is because you didn't want to try the app duh
+  title: I still don't understand what the hell are you talking about
+  subtitle: This is because you didn't want to try the app yet!
   featureslist:
   - title: Connect to the app
-    image: ''
+    image: "/images/photo-1520883593493-120786636e05.jpg"
     actions: []
     content: And find yourself in a weird room surrounded by strangers. You fix your
       camera to point you at your best side. You feel awkward but so do they. You
@@ -57,19 +57,19 @@ sections:
       just left you a message. Invaded by curiosity you click on it and open the chat
       panel: "yo man what the hell are you doing? You look pretty dumb while looking
       at your screen!".'
-    image: ''
+    image: "/images/photo-1532660621034-fb55e2e59762.jpg"
     actions: []
   - title: You are now sure. What the hell am I doing here?
     content: You are sure that the guy in front of you looks 10 times dumber than
       you. You go to the public chat and share the horrendous message the guy shared
       with you. Everybody in the room agrees it's time to ban xxxILovePizzaxxx to
       never see him again.
-    image: ''
+    image: "/images/photo-1531206715517-5c0ba140b2b8.jpg"
     actions: []
   - title: You just made 7 new friends
     content: What else do you need? I'm not a magician that can solve all of your
       problems!
-    image: ''
+    image: "/images/photo-1511632765486-a01980e01a18.jpg"
     actions: []
   section_id: ''
 - type: section_hero
