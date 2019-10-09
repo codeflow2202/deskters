@@ -1,6 +1,36 @@
 ---
 title: Deskters
 sections:
+- template: section_hero
+  type: section_hero
+  section_id: superhero
+  title: The ultimate social experience
+  content: Deskters is the place to be when not sure how you want to confront all
+    your social insecurities!
+  image: "/images/undraw_late_at_night_23xk.svg"
+  actions: []
+- template: section_features
+  bg: gray
+  type: section_features
+  title: Still here?
+  subtitle: I guess I got your attention
+  featureslist:
+  - title: Socially lazy?
+    content: Would you like to be surrounded by people who loves you without having
+      to make any effort?
+    image: "/images/undraw_friends_online_klj6-1.svg"
+    actions: []
+  - title: You keep connecting to social apps...
+    content: "...but you still find yourself without having anything important to
+      say?"
+    image: "/images/undraw_creative_team_r90h-1.svg"
+    actions: []
+  - title: Maybe you still don't understand how in a world where internet exists...
+    content: "...you still can't connect with anyone or anything? Man, we got you
+      covered."
+    image: ''
+    actions: []
+  section_id: ''
 - type: section_hero
   template: section_hero
   section_id: hero
@@ -18,14 +48,6 @@ sections:
   subtitle: ''
   bg: gray
   featureslist:
-  - title: Socially lazy?
-    content: Would you like to be surrounded by people who loves you without having
-      the required skills? Do you find yourself connecting to social networks or chats
-      just to realize you don't even have the guts to send a message? We got you covered.
-    image: "/images/undraw_pizza_sharing_wxop.svg"
-    actions:
-    - label: Try socially akward mode
-      url: ''
   - title: Randomly connect to up to 8 people
     content: Deskters connects you automatically to other users sharing their workstations!
     image: "/images/undraw_group_hangout_5gmq.svg"
@@ -40,6 +62,14 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
+  - title: Socially lazy?
+    content: Would you like to be surrounded by people who loves you without having
+      the required skills? Do you find yourself connecting to social networks or chats
+      just to realize you don't even have the guts to send a message? We got you covered.
+    image: "/images/undraw_pizza_sharing_wxop.svg"
+    actions:
+    - label: Try socially akward mode
+      url: ''
   - title: Show your dedication, fun times, or just how you like to relax
     content: You don't need to be a great speaker, gamer or even good at socializing
       for what matters. Just keep doing what you are doing.
