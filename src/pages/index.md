@@ -67,8 +67,7 @@ sections:
     image: "/images/photo-1531206715517-5c0ba140b2b8.jpg"
     actions: []
   - title: You just made 7 new friends
-    content: What else do you need? I'm not a magician that can solve all of your
-      problems!
+    content: What else do you need? I'm not a wizard that can solve all of your problems!
     image: "/images/photo-1511632765486-a01980e01a18.jpg"
     actions: []
   - title: 10 years have passed
