@@ -18,6 +18,14 @@ sections:
   subtitle: ''
   bg: gray
   featureslist:
+  - title: Socially lazy?
+    content: Would you like to be surrounded by people who loves you without having
+      the required skills? Do you find yourself connecting to social networks or chats
+      just to realize you don't even have the guts to send a message? We got you covered.
+    image: "/images/undraw_pizza_sharing_wxop.svg"
+    actions:
+    - label: Try socially akward mode
+      url: ''
   - title: Randomly connect to up to 8 people
     content: Deskters connects you automatically to other users sharing their workstations!
     image: "/images/undraw_group_hangout_5gmq.svg"
