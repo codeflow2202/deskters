@@ -24,9 +24,10 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Meet people online without any effort
+    content: You can be in touch with other deskters without the hassle of looking
+      for them, asking friendships, or even directly chatting. You log in and you
+      are thrown in a room filled with people. You do what you want at your own pace.
     image: images/feature2.png
     actions:
     - label: Learn More
