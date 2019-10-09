@@ -43,7 +43,7 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Testimonials
-  subtitle: ''
+  subtitle: Real people saying real things
   bg: white
   reviews:
   - author: John Proctor
