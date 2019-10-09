@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Deskters
 sections:
 - type: section_hero
   template: section_hero
@@ -15,7 +15,7 @@ sections:
   template: section_features
   section_id: features
   title: Features
-  subtitle: Find out what you can do
+  subtitle: ''
   bg: gray
   featureslist:
   - title: Randomly connect to up to 8 people
