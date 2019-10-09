@@ -53,10 +53,11 @@ sections:
   - author: Mary Bones
     avatar: images/review2.jpg
     content: I've been waiting my whole life for it. Deskters is a dream becoming
-      reality.
+      reality. Click a button, join some people and pretend they aren't even there!
   - author: Goal K. Ieper
     avatar: images/review3.jpg
-    content: Just. Amazing!
+    content: Just. Amazing! I mean... what were you waiting for. If I had something
+      like this in the past now I wouldn't be a broken bum.
 - type: section_cta
   template: section_cta
   section_id: call-to-action
