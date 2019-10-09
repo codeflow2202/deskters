@@ -71,13 +71,13 @@ sections:
     actions: []
   - title: 10 years have passed
     content: Through Deskters you gained a great boost in social confidence. You started
-      training and went in a keto vegan diet. Married a beautiful woman, had 3 children
-      and bought a majestic apartment in the city center. You are on top of the world.
-      One day when walking into a bar you notice a drunk man, laying on the ground
-      completely wasted. You could never forget that beard. xxxILovePizzaxxx is there,
-      a destiny way too harsh to withstand. Nobody deserves to get that low in life
-      and you feel happy that destiny brought you to click that magic link on a lucky
-      day of 10 years ago.
+      working out and went in a keto vegan diet. Married a beautiful woman, had 3
+      children and bought a majestic apartment in the city center. You are on top
+      of the world. One day when walking into a bar you notice a drunk man, laying
+      on the ground completely wasted. You could never forget that beard. xxxILovePizzaxxx
+      is there, a destiny way too harsh to withstand. Nobody deserves to get that
+      low in life and you feel happy that destiny brought you to click that magic
+      link on a lucky day of 10 years ago.
     image: "/images/photo-1523287562758-66c7fc58967f.jpg"
     actions: []
   section_id: ''
