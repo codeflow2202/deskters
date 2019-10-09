@@ -43,23 +43,19 @@ sections:
   template: section_reviews
   section_id: reviews
   title: Testimonials
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: ''
   bg: white
   reviews:
-  - author: John Doe
+  - author: John Proctor
     avatar: images/review1.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
+    content: It's umbelievable! What a time to be alive!
+  - author: Mary Bones
     avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-  - author: Richard Roe
+    content: I've been waiting my whole life for it. Deskters is a dream becoming
+      reality.
+  - author: Goal K. Ieper
     avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
+    content: Just. Amazing!
 - type: section_cta
   template: section_cta
   section_id: call-to-action
