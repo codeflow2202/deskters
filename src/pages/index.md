@@ -20,9 +20,9 @@ sections:
       to make any effort?
     image: "/images/undraw_friends_online_klj6-1.svg"
     actions: []
-  - title: Are you connecting to social apps...
+  - title: Do you keep connecting to social apps...
     content: "...but you still find yourself without having anything important to
-      say?"
+      say? Awkward!"
     image: "/images/undraw_creative_team_r90h-1.svg"
     actions: []
   - title: Maybe you still don't understand how in a world where internet exists...
@@ -86,7 +86,7 @@ sections:
   reviews:
   - author: John Proctor
     avatar: images/review1.jpg
-    content: It's umbelievable! What a time to be alive! I started using it as a joke
+    content: It's unbelievable! What a time to be alive! I started using it as a joke
       and now it's the first thing I turn on as soon as I get home!
   - author: Mary Bones
     avatar: images/review2.jpg
