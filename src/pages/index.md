@@ -7,7 +7,7 @@ sections:
   title: Be together with other people while doing what you like
   content: Deskters allows you to spend time with people from all over the world while
     working, studying or just chilling from home
-  image: "/images/3.jpg"
+  image: "/images/undraw_friends_online_klj6.svg"
   actions:
   - label: Learn More
     url: "/features"
