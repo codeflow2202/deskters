@@ -1,7 +1,7 @@
 ---
 title: About Us (me?)
 subtitle: Thanks for taking the time to get this far
-img_path: images/about.jpg
+img_path: "/images/photo-1532498551838-b7a1cfac622e.jpg"
 menus:
   secondary:
     title: About Us
@@ -18,3 +18,5 @@ As anyone who has at least a bit of will to keep his own mental sanity I'm spend
 Here is where Deskters comes into play. This site is my last effort to direct my life towards my next goal. Live and work on a beach where it is summer the whole year.
 
 You might think, hey you can't become rich by making a free app! And yes I agree. But I have a plan... a big, big plan.
+
+PS. I don't know and I'm not related to anyone on the picture on this page.
