@@ -53,9 +53,22 @@ sections:
       just pretend they are not there and keep doing whatever you were doing.
   - title: Receive a message
     content: 'You almost forgot about this app to be open in one of your tabs when
-      you see a notification. That weird guy with a big beard just left you a message.
-      Invaded by curiosity you click on it and open the chat panel: "yo man what the
-      hell are you doing? You look pretty dumb while looking at your screen!".'
+      you see a notification. That weird guy with a big beard nicknamed xxxILovePizzaxxx
+      just left you a message. Invaded by curiosity you click on it and open the chat
+      panel: "yo man what the hell are you doing? You look pretty dumb while looking
+      at your screen!".'
+    image: ''
+    actions: []
+  - title: You are now sure. What the hell am I doing here?
+    content: You are sure that the guy in front of you looks 10 times dumber than
+      you. You go to the public chat and share the horrendous message the guy shared
+      with you. Everybody in the room agrees it's time to ban xxxILovePizzaxxx to
+      never see him again.
+    image: ''
+    actions: []
+  - title: You just made 7 new friends
+    content: What else do you need? I'm not a magician that can solve all of your
+      problems!
     image: ''
     actions: []
   section_id: ''
