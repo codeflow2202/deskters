@@ -19,7 +19,7 @@
     "tagline": "Go with Deskters",
     "has_nav": false,
     "nav_title": "Deskters",
-    "has_social": false,
+    "has_social": true,
     "social_title": "Community",
     "has_subscribe": true,
     "subscribe_title": "Subscribe",
