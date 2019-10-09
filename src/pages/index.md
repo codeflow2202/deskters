@@ -20,7 +20,7 @@ sections:
       to make any effort?
     image: "/images/undraw_friends_online_klj6-1.svg"
     actions: []
-  - title: You keep connecting to social apps...
+  - title: Are you connecting to social apps...
     content: "...but you still find yourself without having anything important to
       say?"
     image: "/images/undraw_creative_team_r90h-1.svg"
