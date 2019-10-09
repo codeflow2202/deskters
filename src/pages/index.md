@@ -59,8 +59,8 @@ sections:
 - type: section_cta
   template: section_cta
   section_id: call-to-action
-  title: This Is Call To Action Block!
-  subtitle: This is an optional description for the call to action block.
+  title: Still not sure?
+  subtitle: Give it a try? It's free!
   actions:
   - label: Get Started
     url: "/signup"
