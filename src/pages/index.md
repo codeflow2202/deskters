@@ -32,10 +32,10 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Show your dedication, fun times, or just how you like to relax
+    content: You don't need to be a great speaker, gamer or even good at socializing
+      for what matters. Just keep doing what you are doing.
+    image: "/images/undraw_contemplating_8t0x.svg"
     actions:
     - label: Learn More
       url: "/features"
