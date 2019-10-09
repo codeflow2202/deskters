@@ -28,7 +28,7 @@ sections:
     content: You can be in touch with other deskters without the hassle of looking
       for them, asking friendships, or even directly chatting. You log in and you
       are thrown in a room filled with people. You do what you want at your own pace.
-    image: images/feature2.png
+    image: "/images/undraw_creative_team_r90h.svg"
     actions:
     - label: Learn More
       url: "/features"
