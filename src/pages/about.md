@@ -1,16 +1,20 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+title: About Us (me?)
+subtitle: Thanks for taking the time to get this far
 img_path: images/about.jpg
 menus:
   secondary:
     title: About Us
     weight: 1
 template: page
+
 ---
+Hi, my name is Luca and I try to be web-developer/designer/writer/entrepreneur(hah!) from somewhere in northern Europe.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+As you might have heard life here is pretty harsh. I can't even remember the last time I saw the sun up here. Actually I do. It was 23 days ago and it was just for an hour or so. Now I'm lucky if for once I can get to work without being completely wet because of the rain.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+As anyone who has at least a bit of will to keep his own mental sanity I'm spending every minute putting as much effort as I can to become rich enough to escape this situation together with my family.
+
+Here is where Deskters comes into play. This site is my last effort to direct my life towards my next goal. Live and work on a beach where it is summer the whole year.
+
+You might think, hey you can't become rich by making a free app! And yes I agree. But I have a plan... a big, big plan.
