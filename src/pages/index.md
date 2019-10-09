@@ -48,7 +48,8 @@ sections:
   reviews:
   - author: John Proctor
     avatar: images/review1.jpg
-    content: It's umbelievable! What a time to be alive!
+    content: It's umbelievable! What a time to be alive! I started using it as a joke
+      and now it's the first thing I turn on as soon as I get home!
   - author: Mary Bones
     avatar: images/review2.jpg
     content: I've been waiting my whole life for it. Deskters is a dream becoming
