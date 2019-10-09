@@ -28,7 +28,7 @@ sections:
   - title: Maybe you still don't understand how in a world where internet exists...
     content: "...you still can't connect with anyone or anything? Man, we got you
       covered."
-    image: ''
+    image: "/images/undraw_friends_online_klj6-2.svg"
     actions: []
   section_id: ''
 - type: section_hero
