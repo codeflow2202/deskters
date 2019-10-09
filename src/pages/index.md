@@ -52,11 +52,10 @@ sections:
       camera to point you at your best side. You feel awkward but so do they. You
       just pretend they are not there and keep doing your own business.
   - title: Receive a message
-    content: 'You almost forgot about this app to be open in one of your tabs when
-      you see a notification. That weird guy with a big beard nicknamed xxxILovePizzaxxx
-      just left you a message. Invaded by curiosity you click on it and open the chat
-      panel: "yo man what the hell are you doing? You look pretty dumb while looking
-      at your screen!".'
+    content: |-
+      You almost forgot about this app to be open in one of your tabs when you see a notification. That weird guy with a big beard nicknamed xxxILovePizzaxxx just left you a message. Invaded by curiosity you click on it and open the chat panel:
+
+      \- "Yo man what the hell are you doing? You look pretty dumb while staring at your screen!"
     image: "/images/photo-1532660621034-fb55e2e59762.jpg"
     actions: []
   - title: What the hell am I doing here?
