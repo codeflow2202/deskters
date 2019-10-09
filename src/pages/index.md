@@ -4,7 +4,7 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Be together with other people while doing what you like
+  title: Be together while doing what you like
   content: Deskters allows you to spend time with people from all over the world while
     working, studying or just chilling from home
   image: "/images/undraw_friends_online_klj6.svg"
