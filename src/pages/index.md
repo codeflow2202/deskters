@@ -15,14 +15,12 @@ sections:
   template: section_features
   section_id: features
   title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: Find out what you can do
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Randomly connect to up to 8 people
+    content: Deskters connects you automatically to other users sharing their workstations!
+    image: "/images/undraw_group_hangout_5gmq.svg"
     actions:
     - label: Learn More
       url: "/features"
