@@ -6,7 +6,7 @@ sections:
   section_id: superhero
   title: The ultimate social experience
   content: Deskters is the place to be when not sure how you want to confront all
-    your social insecurities!
+    your social insecurities! (but you still don't want to feel too alone)
   image: "/images/undraw_late_at_night_23xk.svg"
   actions: []
 - template: section_features
@@ -26,8 +26,8 @@ sections:
     image: "/images/undraw_creative_team_r90h-1.svg"
     actions: []
   - title: Maybe you still don't understand how in a world where internet exists...
-    content: "...you still can't connect with anyone or anything? Man, we got you
-      covered."
+    content: "...you still can't connect with anyone or anything? If there only was
+      a simpler way. Man, we got you covered."
     image: "/images/undraw_friends_online_klj6-2.svg"
     actions: []
   section_id: ''
