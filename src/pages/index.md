@@ -27,9 +27,17 @@ sections:
     actions: []
   - title: Maybe you still don't understand how in a world where internet exists...
     content: "...you still can't connect with anyone or anything? If there only was
-      a simpler way. Man, we got you covered."
+      a simpler way."
     image: "/images/undraw_friends_online_klj6-2.svg"
     actions: []
+  section_id: ''
+- template: section_cta
+  type: section_cta
+  title: Man we got you covered!
+  subtitle: Just smash that button and be mesmerized
+  actions:
+  - label: Or maybe not. I mean, I'm just a button
+    url: ''
   section_id: ''
 - type: section_hero
   template: section_hero
