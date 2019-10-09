@@ -39,6 +39,26 @@ sections:
   - label: Or maybe not. I mean, I'm just a button
     url: ''
   section_id: ''
+- template: section_features
+  bg: gray
+  type: section_features
+  title: I still don't understand what the hell are you talking about weirdo
+  subtitle: This is because you didn't want to try the app duh
+  featureslist:
+  - title: Connect to the app
+    image: ''
+    actions: []
+    content: And find yourself in a weird room surrounded by strangers. You fix your
+      camera to point you at your best side. You feel awkward but so do they. You
+      just pretend they are not there and keep doing whatever you were doing.
+  - title: Receive a message
+    content: 'You almost forgot about this app to be open in one of your tabs when
+      you see a notification. That weird guy with a big beard just left you a message.
+      Invaded by curiosity you click on it and open the chat panel: "yo man what the
+      hell are you doing? You look pretty dumb while looking at your screen!".'
+    image: ''
+    actions: []
+  section_id: ''
 - type: section_hero
   template: section_hero
   section_id: hero
