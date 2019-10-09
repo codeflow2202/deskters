@@ -61,7 +61,7 @@ sections:
   - title: What the hell am I doing here?
     content: You are sure that the man in front of you looks 10 times dumber than
       you ever have. You go to the public chat and share the horrendous message the
-      guy shared with you. Everybody in the room agrees it's time to ban xxxILovePizzaxxx
+      guy sent you. Everybody in the room agrees it's time to ban xxxILovePizzaxxx
       to never see him again.
     image: "/images/photo-1531206715517-5c0ba140b2b8.jpg"
     actions: []
