@@ -8,7 +8,9 @@ sections:
   content: Deskters is the place to be when not sure how you want to confront all
     your social insecurities! (but you still don't want to feel too alone)
   image: "/images/undraw_intense_feeling_ft9s.svg"
-  actions: []
+  actions:
+  - label: Try me! I'm free!
+    url: https://deskters.herokuapp.com/
 - template: section_features
   bg: gray
   type: section_features
