@@ -7,7 +7,7 @@ sections:
   title: The ultimate social experience
   content: Deskters is the place to be when not sure how you want to confront all
     your social insecurities! (but you still don't want to feel too alone)
-  image: "/images/undraw_late_at_night_23xk.svg"
+  image: "/images/undraw_intense_feeling_ft9s.svg"
   actions: []
 - template: section_features
   bg: gray
