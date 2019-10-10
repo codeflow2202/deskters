@@ -146,12 +146,13 @@ sections:
   actions:
   - label: Get Started
     url: "/signup"
-- type: section_posts
-  template: section_posts
-  section_id: recent-posts
-  title: Latest Posts
+- template: section_faq
   bg: gray
+  type: section_faq
+  section_id: ''
+  title: ''
   subtitle: ''
+  faqitems: []
 menus:
   main:
     title: Home
