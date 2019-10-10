@@ -1,5 +1,5 @@
 ---
-title: Deskters
+title: DESKTERS
 sections:
 - template: section_hero
   type: section_hero
