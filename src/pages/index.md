@@ -37,7 +37,7 @@ sections:
   subtitle: Just smash that button and be mesmerized
   actions:
   - label: Or maybe not. I mean, I'm just a button
-    url: ''
+    url: https://deskters.herokuapp.com/
   section_id: ''
 - template: section_features
   bg: gray
