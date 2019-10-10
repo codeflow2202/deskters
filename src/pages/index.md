@@ -150,9 +150,24 @@ sections:
   bg: gray
   type: section_faq
   section_id: ''
-  title: ''
+  title: FAQ
   subtitle: ''
-  faqitems: []
+  faqitems:
+  - question: How do I kick a user from a room
+    answer: 'Well... that''s actually on my to-do list. You can of course leave your
+      email address (which I''m totally not going to use to spam you) to let you know
+      when it will be added. '
+  - question: This site is pretty bad. Couldn't you put a little more effort?
+    answer: I guess you are right. But when you are busy making an app, debugging,
+      managing servers, working 8 hours at your main job, swimming, cooking, spending
+      time with your family... I guess you get the point.
+  - answer: Yes it is. But I added that big fancy button at the bottom right to allow
+      you to report all the bugs I will eventually fix.
+    question: The app buggy
+  - question: I'd like having this fancy functionality that is totally easy to implement
+      in 10 minutes
+    answer: Yeah sure... well just leave a message with the update you are dreaming
+      of by clicking the bottom right chat button.
 menus:
   main:
     title: Home
