@@ -28,7 +28,7 @@ sections:
   - title: Maybe you still don't understand how in a world where internet exists...
     content: "...you still can't connect with anyone or anything? If there only was
       a simpler way."
-    image: "/images/undraw_friends_online_klj6-2.svg"
+    image: "/images/undraw_group_hangout_5gmq-1.svg"
     actions: []
   section_id: ''
 - template: section_cta
