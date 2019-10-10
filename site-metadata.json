@@ -17,7 +17,7 @@
   "footer": {
     "logo_img": "",
     "tagline": "Go with Deskters",
-    "has_nav": false,
+    "has_nav": true,
     "nav_title": "Deskters",
     "has_social": true,
     "social_title": "Community",
