@@ -31,5 +31,4 @@ fields:
     required: true
 pages:
 - src/pages/index.md
-- src/pages/pricing.md
 - src/pages/contact.md
